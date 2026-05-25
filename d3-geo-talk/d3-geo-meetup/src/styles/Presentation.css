@@ -1,0 +1,20 @@
+
+.presentation-backdrop {
+  align-items: center;
+  background-color: #000a08;
+  background-image: url("/norwegian-rose.png");
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  width: 100vw;
+}
+.presentation-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.slide-wrapper {
+  background: #333;
+  height: 80%;
+  width: 100%;
+}

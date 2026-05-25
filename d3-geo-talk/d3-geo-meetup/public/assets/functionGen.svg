@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="700" height="1e3" version="1.1" viewBox="0 0 185.20833 264.58334" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <style>.cls-1{fill:#d86613;}</style>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(0 -32.417)">
+  <g transform="matrix(1 0 0 -1 -23.563 160.26)" fill="#d35fbc" stroke-width=".26458">
+   <path class="cls-1" d="m138.15 101.54-21.873-21.873-21.873 21.873-6.2994-6.1682 25.066-25.066a4.3746 4.3746 0 0 1 6.2119 0l25.023 25.066z"/>
+   <rect class="cls-1" x="111.9" y="73.408" width="8.7492" height="47.246"/>
+  </g>
+  <g transform="translate(126.69 25.123)" fill="#d35fbc" stroke-width=".26458">
+   <path class="cls-1" d="m-33.93 269.44a4.3746 4.3746 0 0 1 -3.106 -1.2686l-25.066-25.066 6.2994-6.1682 21.873 21.873 21.873-21.873 6.1682 6.1682-25.023 25.066a4.3746 4.3746 0 0 1 -3.0185 1.2686z"/>
+   <rect class="cls-1" x="-38.305" y="217.82" width="8.7492" height="47.246"/>
+  </g>
+  <path d="m148.76 93.975-9.3698 5.2999 22.417 25.561-32.89 17.421 6.3635 7.0363 0.72146-0.38137-1.5852 2.19h1.1889v66.202h-35.93l15.84 22.363v-9.8718h12.858v10.617h16.072v-11.85a13.581 10.555 0 0 0 5.6494 -4.3878h15.245v-12.491h-13.662v-9.9927h13.662v-12.491h-13.662v-9.9932h13.662v-12.491h-13.662v-9.9927h13.662v-12.491h-15.247a13.581 10.555 0 0 0 -1.661 -1.8919l24.53-12.969a5.629 4.3746 0 0 0 1.4868 -6.1035zm-111.85 1.156-25.964 28.958a5.629 4.3746 0 0 0 1.4263 6.1118l24.295 13.083a13.581 10.555 0 0 0 -0.7361 0.94774h-15.245v12.491h13.662v9.9927h-13.662v12.491h13.662v9.9932h-13.662v12.491h13.662v9.9927h-13.662v12.491h15.247a13.581 10.555 0 0 0 5.6474 4.3894v11.849h16.072v-10.617h12.859v10.415l12.48-22.907h-32.571v-66.202h0.87241l-1.0187-1.2743 5.9732-6.6492-32.716-17.618 22.669-25.426z" fill="#d45500" stroke-width=".26458"/>
+  <path d="m52.385 90.668z" fill="none" stroke="#000" stroke-width=".026458"/>
+  <text x="56.621693" y="185.57469" fill="#ffccaa" font-family="sans-serif" font-size="35.594px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="56.621693" y="185.57469" fill="#ffccaa" stroke-width=".26458">fn( )</tspan></text>
+ </g>
+</svg>
