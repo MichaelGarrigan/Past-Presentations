@@ -9,3 +9,7 @@
 - 77 attendies
 - [Event link](https://www.meetup.com/nyc-d3-js/events/266324947)
 - [Group link](https://www.meetup.com/nyc-d3-js)
+
+### Meetup - NYC.rb
+- June 11th 2019
+- [Group link](https://www.meetup.com/nyc-rb/)
