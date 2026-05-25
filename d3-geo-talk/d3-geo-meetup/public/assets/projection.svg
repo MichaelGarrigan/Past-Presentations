@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="700" height="1e3" version="1.1" viewBox="0 0 185.20833 264.58334" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <radialGradient id="radialGradient2847" cx="434.58" cy="130.76" r="65.163" gradientTransform="matrix(-.12104 1.1401 -.94217 -.10002 218.06 -278.6)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1cfff8" offset="0"/>
+   <stop stop-color="#0a0073" stop-opacity=".99608" offset="1"/>
+  </radialGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(0 -32.417)">
+  <g transform="translate(0 6.949)">
+   <g>
+    <g stroke="#000">
+     <rect x="25.492" y="39.739" width="156.11" height="94.058" fill="#fc0" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".93137" stroke-width="1.0583" style="paint-order:markers fill stroke"/>
+     <g stroke-width=".026458">
+      <path d="m142.12 114.44 3.5908 0.18899-34.963 38.932-2.6458-1.5119z" fill="#4c4d4d"/>
+      <path d="m99.408 114.63 3.0238-0.18899-16.253 31.372-2.8348-0.56697z" fill="#4c4d4d"/>
+      <path d="m59.735 114.24 2.8178 0.18899-0.05063 33.353-2.585 0.0945z" fill="#4d4d4c"/>
+     </g>
+    </g>
+    <rect x="14.703" y="114.15" width="140.61" height="70.003" fill="#0ff" opacity=".861" stroke="#1e2790" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0583" style="paint-order:markers fill stroke"/>
+   </g>
+   <g fill-opacity=".99608">
+    <path transform="matrix(.26458 0 0 .26458 0 32.417)" d="m618.74 224.9-23.02 15.553-23.023 15.553 7.1172 6.2207-61.74 68.854l19.068-21.08 12.359 0.65039 37.658-41.998 6.8184 5.9609 12.383-24.855zm-209.54 227.6-241.68 269.53 2.4199 11.922 247.93-276.5z" fill="#4d4d4d" stroke-opacity="0" style="paint-order:markers fill stroke"/>
+    <ellipse cx="61.205" cy="66.346" rx="3.4745" ry="2.94" fill="#a40" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".93137" stroke-width="1.0583" style="paint-order:markers fill stroke"/>
+    <ellipse cx="126.95" cy="64.208" rx="3.4745" ry="2.94" fill="#a40" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".93137" stroke-width="1.0583" style="paint-order:markers fill stroke"/>
+    <path transform="matrix(.26458 0 0 .26458 0 32.417)" d="m470.28 138.37-18.453 20.77-18.453 20.77 8.4356 4.2656-65.994 126.54 11.326-0.70898-7.0781 13.664 70.453-135.09 8.084 4.0879 5.8398-27.148zm-154.86 288.14-159.2 305.24 5.2949 10.953 163.87-314.2z" fill="#4d4d4d" stroke-opacity="0" style="paint-order:markers fill stroke"/>
+    <path transform="matrix(.26458 0 0 .26458 0 32.417)" d="m230.23 146.56-6.7344 26.953-6.7363 26.955 9.4512-0.12696 0.0859 108.25 9.7578 0.65429-0.0859-109.03 9.0566-0.1211-7.3965-26.766zm-3.8438 275.28 0.3125 396.08 9.7656 7.2539-0.3086-389.85-9.6953 0.35547z" fill="#4d4d4d" stroke-opacity="0" style="paint-order:markers fill stroke"/>
+   </g>
+   <circle cx="54.566" cy="226.3" r="52.072" fill="url(#radialGradient2847)" stroke-opacity="0" style="paint-order:markers fill stroke"/>
+   <ellipse cx="166.51" cy="90.401" rx="3.4745" ry="2.94" fill="#a40" fill-opacity=".99608" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".93137" stroke-width="1.0583" style="paint-order:markers fill stroke"/>
+  </g>
+ </g>
+</svg>
